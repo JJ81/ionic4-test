@@ -1,6 +1,5 @@
 {
-  "name": "swatch_app_test",
+  "name": "swatch-test",
   "integrations": {},
-  "type": "angular",
-  "id": "a2036e16"
+  "type": "angular"
 }
